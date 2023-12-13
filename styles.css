@@ -108,3 +108,18 @@ figure.section-image {
 div {
   border-right-width: thin;
 }
+
+@media all and (min-width: 376px) {
+  a {
+   display: flex;
+    gap: 30px;}
+
+    figure.section-image{
+      float: left;
+      margin-right: 20px;
+    }
+}
+
+@-ms-viewport{
+  width: device-width;
+}
