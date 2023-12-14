@@ -109,7 +109,7 @@ div {
   border-right-width: thin;
 }
 
-@media all and (min-width: 376px) {
+@media all and (max-width: 376px) {
   a {
    display: flex;
     gap: 30px;}
