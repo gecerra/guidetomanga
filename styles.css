@@ -118,7 +118,7 @@ div {
  
      figure.section-image{
        float: center;
-         width: 75px;
+         max-width: 75px;
          height: auto;
      }
 }
