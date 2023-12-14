@@ -110,6 +110,17 @@ div {
 }
 
 @media all and (max-width: 376px) {
+  ul li a {
+    display: flex;
+     gap: 12px;}
+     font-size: 14px;
+     list-style: none;
+ 
+     figure.section-image{
+       float: center;
+         width: 75px;
+         height: auto;
+     }
 }
 
 @-ms-viewport{
