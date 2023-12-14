@@ -116,8 +116,8 @@ div {
     font-size: 14px;
 
     figure.section-image{
-      float: left;
-        width: 50%
+      float: center;
+        width: 25%
     }
 }
 
