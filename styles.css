@@ -7,7 +7,7 @@ ul {
   }
 
   ul li a {
-    color: #DA9DFF;
+    color: purple;
     text-decoration: none;
     padding: 12px;
     display: block;
@@ -73,7 +73,7 @@ h1#site-title {
 .border {
   font-size: 30px;
   text-align: center;
-  border: #DA9DFF 2px solid;
+  border: purple 2px solid;
 }
 
 .special {
@@ -93,12 +93,12 @@ footer#page-footer {
   margin-top: 64px;
   text-align: center;
   font-size: 22px;
-  background-color: #DA9DFF;
+  background-color: purple;
   color: #ffffff;
 }
 
 figure.section-image {
-  border: 2px solid #DA9DFF;
+  border: 2px solid purple;
   width: auto;
   height: auto;
   object-fit: cover;
@@ -115,8 +115,8 @@ div {
     gap: 30px;}
 
     figure.section-image{
-      float: left;
-      margin-right: 20px;
+      float: center;
+        width: 250px
     }
 }
 
