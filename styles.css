@@ -115,8 +115,8 @@ div {
     gap: 30px;}
 
     figure.section-image{
-      float: center;
-        width: 250px
+      float: left;
+        width: auto
     }
 }
 
