@@ -110,7 +110,7 @@ div {
 }
 
 @media all and (max-width: 376px) {
-  ul li a {
+  ul li {
     display: flex;
      gap: 12px;}
      font-size: 14px;
